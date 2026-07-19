@@ -1,6 +1,8 @@
 QO-100 RTTY Sprint Logger
 ==========================
 
+<b>Need to have Python 3.x and MMTTY already installed. Windows only.</b>
+
 This program uses MMTTY as the RTTY modem and continuously reads the Received-log TXT file.
 
 CONFIGURATION
